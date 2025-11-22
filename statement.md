@@ -1,35 +1,36 @@
 Problem Statement
 
-Managing personal finances is tough without a clear way to track income and expenses. Existing tools can be too complicated for users who just want basic tracking. This project offers a simple Python-based command-line tool that lets users record daily transactions and quickly view financial summaries.
+Managing personal finances is challenging without a structured way to track income and expenses. Existing tools can be overly complex for users who only need basic tracking. This project provides a simple Python-based command-line tool that allows users to record daily transactions and view financial summaries quickly.
 
 Scope of the Project:
 
-1. Allow users to add income and expense entries.
+•	To create a minimalistic personal finance tracker usable via the command line.
 
-2. Temporarily store transactions in memory.
+•	To allow users to add income and expense records.
 
-3. Provide a summary of total income, expenses, and current balance on demand.
+•	To calculate and display total income, total expenses, and balance.
 
-4. Ensure a simple and user-friendly interface that is suitable for beginners.
+•	To store transaction data temporarily during program execution.
+
+•	To provide a user-friendly text-based menu interface.
+
 
 Target Users:
 
 1. Students learning Python and software design.
 
-2. Beginners looking for a straightforward personal finance tool.
+2. Individuals who want lightweight financial tracking.
 
-3. Individuals who want lightweight financial tracking.
-
-4. Users who prefer not to use complex finance applications.
+3. Users who prefer not to use complex finance applications.
 
 High-Level Features
 
-Add Income: Record earnings with a timestamp.
+Add Income
 
-Add Expense: Record spending with a timestamp.
+Add Expense
 
-View Summary: Show total income, expenses, and balance.
+View Summary
 
-Simple Navigation: Menu-driven CLI interface.
+Simple Navigation
 
-Lightweight Operation: No external libraries or setup required.
+Lightweight Operation
