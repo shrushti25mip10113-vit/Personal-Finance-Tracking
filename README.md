@@ -1,6 +1,11 @@
 # Personal-Finance-Tracking
+
 Overview - The Simple Personal Finance Tracker is a lightweight Python-based command-line application designed to help users record income and expenses and instantly view their financial summary. Built for simplicity and ease of use, it requires no databases, external libraries, or complex setup.
+
 Features- Add income entries, Add expense entries, View total income,total expenses,and current balance, Automatically timestamps each transaction, Runs in any environment with Python installed, Clean, menu-driven CLI interface
+
 Technologies / Tools Used- Python 3.x , datetime module (built-in) , No external dependencies
+
 Installation & Running the Project - 1. Clone the Repository 2. Run the Program
+
 Instructions for Testing- You can manually test the program by: 1. Testing Menu Navigation-Run the script and confirm that all menu options appear correctly. 2. Adding Transactions-Add income with positive, zero, or invalid (letters, symbols) inputs , Add expenses the same way as of income, Confirm that the program handles unexpected values gracefully. 3. Viewing Summary-Ensure totals update correctly after each transaction. 4. Exiting the Program-Check the system exits cleanly after selecting option 4.
