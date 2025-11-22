@@ -5,23 +5,32 @@ This project aims to provide a straightforward, command-line personal finance tr
 
 Scope of the Project:
 
-Designing and implementing a basic Python CLI-based finance tracker.
 Allowing users to add income and expense entries.
-Storing transactions temporarily in memory (no database).
+
+Storing transactions temporarily in memory.
+
 Providing an on-demand summary of total income, expenses, and current balance.
+
 Ensuring a simple and user-friendly interface suitable for beginners.
 
 Target Users:
 
-Students learning Python and software design
-Beginners wanting a simple personal finance tool
-Individuals who prefer lightweight, offline financial tracking
-Users who don’t want complex or feature-heavy finance applications
+Students learning Python and software design.
+
+Beginners wanting a simple personal finance tool.
+
+Individuals who prefer lightweight, financial tracking.
+
+Users who don’t want complex finance applications.
 
 High-Level Features
 
 Add Income: Record earnings with a timestamp.
+
 Add Expense: Record spending with a timestamp.
+
 View Summary: Display total income, expenses, and balance.
+
 Simple Navigation: Menu-driven CLI interface.
+
 Lightweight Operation: No external libraries or setup needed.
