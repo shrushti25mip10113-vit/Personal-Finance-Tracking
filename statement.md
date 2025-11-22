@@ -1,7 +1,6 @@
 Problem Statement
 
-Many individuals struggle to keep track of their daily income and expenses due to the lack of simple and accessible tools. Existing finance applications are often overly complex, require account creation, or include advanced features that are unnecessary for users seeking a minimal tracking solution.
-This project aims to provide a straightforward, command-line personal finance tracker that allows users to record transactions easily and view their financial summary instantly.
+Managing personal finances is challenging without a structured way to track income and expenses. Existing tools can be overly complex for users who only need basic tracking. This project provides a simple Python-based command-line tool that allows users to record daily transactions and view financial summaries quickly.
 
 Scope of the Project:
 
